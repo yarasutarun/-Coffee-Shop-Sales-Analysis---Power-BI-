@@ -16,10 +16,10 @@ This **Power BI dashboard** provides a **comprehensive sales analysis** for a co
 - **Total Sales:** **$699k** from the Data.  
 - **Total Quantity Sold:** **214k** from the Data.  
 - **Total Orders:** **149k** from the Data.  
-- **Peak Sales Hours:** Evening hours **(6 PM - 9 PM)** have the highest revenue in the selected month.  
-- **Best-Selling Category:** Coffee contributes **41.31%** of total sales in the selected month.  
-- **Top-Performing Product:** Barista Espresso with **$20.4K** in sales in the selected month.  
-- **Store Performance:** The **Lower Manhattan** location generates the highest revenue in the selected month.  
+- **Peak Sales Hours:** Evening hours **(6 PM - 9 PM)** have the highest revenue **in the selected month.**  
+- **Best-Selling Category:** Coffee contributes **41.31%** of total sales **in the selected month.**   
+- **Top-Performing Product:** Barista Espresso with **$20.4K** **in sales in the selected month.**   
+- **Store Performance:** The **Lower Manhattan** location generates the highest revenue **in the selected month.**    
 
 ## 🚀 How to Use
 1. Open the **Power BI (.pbix) file**.  
